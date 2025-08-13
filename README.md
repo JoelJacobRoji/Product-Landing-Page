@@ -1,2 +1,2 @@
-# Product-Landing-Page
-A product landing page using HTML and CSS
+# Product-Launch-Page
+A product launch page using HTML and CSS
